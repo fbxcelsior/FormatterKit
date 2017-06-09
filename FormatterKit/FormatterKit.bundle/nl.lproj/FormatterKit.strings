@@ -11,16 +11,16 @@
 "&" = "&";
 
 /* #{Dimensional Quantity} #{Direction}
-   #{Distance} #{Unit}
-   #{Speed} #{Unit}
-   Deictic Expression Format (#{Time} #{Ago/From Now} */
+ #{Distance} #{Unit}
+ #{Speed} #{Unit}
+ Deictic Expression Format (#{Time} #{Ago/From Now} */
 "%@ %@" = "%1$@ %2$@";
 
 /* Approximate Qualifier Format */
 "about %@" = "ongeveer %@";
 
 /* Past Deictic Expression */
-"ago" = "geleden";
+"ago" = "";
 
 /* List conjunction */
 "and" = "en";
@@ -28,17 +28,13 @@
 /* Error converting to NSArray */
 "Couldn’t convert to NSArray" = "Converteren naar NSArray mislukt";
 
-/* Day Unit (Singular) */
-"day" = "dag";
+/* Day Unit (Singular)
+ Day Unit (Singular, Abbreviated) */
+"day" = "d";
 
-/* Day Unit (Plural) */
-"days" = "dagen";
-
-/* Day Unit (Singular, Abbreviated) */
-"d" = "dag";
-
-/* Day Unit (Plural, Abbreviated) */
-"ds" = "dagen";
+/* Day Unit (Plural)
+ Day Unit (Plural, Abbreviated) */
+"days" = "d";
 
 /* East Direction Abbreviation */
 "E" = "O";
@@ -122,7 +118,7 @@
 "NW" = "NW";
 
 /* Second Unit (Plural, Abbreviated)
-   Second Unit (Singular, Abbreviated) */
+ Second Unit (Singular, Abbreviated) */
 "s" = "s";
 
 /* South Direction Abbreviation */
@@ -177,7 +173,7 @@
 "year" = "jaar";
 
 /* Year Unit (Plural) */
-"years" = "jaar";
+"years" = "jaren";
 
 /* Year Unit (Singular, Abbreviated) */
 "yr" = "jr.";
