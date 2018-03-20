@@ -20,7 +20,7 @@
 "about %@" = "ongeveer %@";
 
 /* Past Deictic Expression */
-"ago" = "geleden";
+"ago" = "";
 
 /* List conjunction */
 "and" = "en";
@@ -30,11 +30,11 @@
 
 /* Day Unit (Singular)
  Day Unit (Singular, Abbreviated) */
-"day" = "dag";
+"day" = "d";
 
 /* Day Unit (Plural)
  Day Unit (Plural, Abbreviated) */
-"days" = "dagen";
+"days" = "d";
 
 /* East Direction Abbreviation */
 "E" = "O";
@@ -88,10 +88,10 @@
 "mo" = "m"";
 
 /* Month Unit (Singular) */
-"month" = "maand";
+"month" = "m";
 
 /* Month Unit (Plural) */
-"months" = "maanden";
+"months" = "m";
 
 /* Month Unit (Plural, Abbreviated) */
 "mos" = "m";
@@ -152,10 +152,10 @@
 "W" = "W";
 
 /* Week Unit (Singular) */
-"week" = "week";
+"week" = "w";
 
 /* Week Unit (Plural) */
-"weeks" = "weken";
+"weeks" = "w";
 
 /* West Direction */
 "West" = "West";
@@ -170,10 +170,10 @@
 "yds" = "yds";
 
 /* Year Unit (Singular) */
-"year" = "jaar";
+"year" = "j";
 
 /* Year Unit (Plural) */
-"years" = "jaren";
+"years" = "j";
 
 /* Year Unit (Singular, Abbreviated) */
 "yr" = "j";
