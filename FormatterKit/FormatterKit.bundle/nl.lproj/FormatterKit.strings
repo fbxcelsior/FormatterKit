@@ -85,7 +85,7 @@
 "minutes" = "m";
 
 /* Month Unit (Singular, Abbreviated) */
-"mo" = "m"";
+"mo" = "m";
 
 /* Month Unit (Singular) */
 "month" = "maand";
@@ -180,4 +180,3 @@
 
 /* Year Unit (Plural, Abbreviated) */
 "yrs" = "j";
-
