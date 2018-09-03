@@ -37,10 +37,10 @@
 "days" = "dagen";
 
 /* Day Unit (Singular, Abbreviated) */
-"d" = "dag";
+"d" = "d";
 
 /* Day Unit (Plural, Abbreviated) */
-"ds" = "dagen";
+"ds" = "d";
 
 /* East Direction Abbreviation */
 "E" = "O";
