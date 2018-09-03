@@ -36,6 +36,12 @@
  Day Unit (Plural, Abbreviated) */
 "days" = "dagen";
 
+/* Day Unit (Singular, Abbreviated) */
+"d" = "dag";
+
+/* Day Unit (Plural, Abbreviated) */
+"ds" = "dagen";
+
 /* East Direction Abbreviation */
 "E" = "O";
 
