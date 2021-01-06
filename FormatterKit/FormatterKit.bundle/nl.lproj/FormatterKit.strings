@@ -85,13 +85,13 @@
 "mins" = "minuten";
 
 /* Minute Unit (Singular) */
-"minute" = "m";
+"minute" = "minuut";
 
 /* Minute Unit (Plural) */
-"minutes" = "m";
+"minutes" = "minuten";
 
 /* Month Unit (Singular, Abbreviated) */
-"mo" = "m";
+"mo" = "maand";
 
 /* Month Unit (Singular) */
 "month" = "maand";
@@ -100,7 +100,7 @@
 "months" = "maanden";
 
 /* Month Unit (Plural, Abbreviated) */
-"mos" = "m";
+"mos" = "maanden";
 
 /* Miles Per Hour Unit */
 "mph" = "mph";
